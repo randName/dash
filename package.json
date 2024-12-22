@@ -1,0 +1,22 @@
+{
+	"name": "dash",
+	"description": "dashboard site",
+	"author": "randName",
+	"license": "MIT",
+	"repository": "github:randName/dash",
+	"version": "0.0.0",
+	"private": true,
+	"type": "module",
+	"scripts": {
+		"build": "vite build",
+		"dev": "vite"
+	},
+	"dependencies": {
+		"vue": "latest"
+	},
+	"devDependencies": {
+		"@vitejs/plugin-vue": "latest",
+		"unocss": "latest",
+		"vite": "latest"
+	}
+}
